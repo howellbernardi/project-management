@@ -13,13 +13,13 @@ The app enables:
 - Deliver a financially viable project with ROI of **78%** and **payback < 1 year**
 
 ## Contents  
-- **Business Case & Objectives** – Justification for the project  
-- **Project Charter** – Roles, responsibilities, and scope  
-- **Work Breakdown Structure (WBS)** – Project tasks and timeline  
-- **Gantt Chart & AON Diagram** – Scheduling and critical path  
-- **Risk Management** – Risk register, EMV, mitigation strategies  
-- **Financial Analysis** – ROI, NPV, and budget planning  
-- **Quality Tools** – Fishbone, Pareto, Check Sheet, Histogram, Control Chart
+- **Business Case & Objectives**, Justification for the project  
+- **Project Charter**, Roles, responsibilities, and scope  
+- **Work Breakdown Structure (WBS)**, Project tasks and timeline  
+- **Gantt Chart & AON Diagram**, Scheduling and critical path  
+- **Risk Management**, Risk register, EMV, mitigation strategies  
+- **Financial Analysis**, ROI, NPV, and budget planning  
+- **Quality Tools**, Fishbone, Pareto, Check Sheet, Histogram, Control Chart
 
 ## Tools & Methodologies  
 - **Agile Project Management**  
@@ -33,5 +33,6 @@ The app enables:
 - NPV: **$234,000**  
 - Project duration: **12 months**
   
-“All financial data is simulated for academic purposes only.”
+## Disclaimer
+All data and references used in this project are for **academic purposes only**.  
 
