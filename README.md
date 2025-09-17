@@ -32,5 +32,6 @@ The app enables:
 - Payback period: **< 1 year**  
 - NPV: **$234,000**  
 - Project duration: **12 months**
-- “All financial data is simulated for academic purposes only.”
+  
+“All financial data is simulated for academic purposes only.”
 
